@@ -148,7 +148,7 @@ function App() {
               </div>
 
               <div>
-                <h1 className="text-xl font-bold">ImageFlow</h1>
+                <h1 className="text-xl font-bold">Image Manipulator</h1>
                 <p className="text-[10px] font-medium uppercase tracking-[2px] text-slate-400">
                   Image optimization
                 </p>
